@@ -35,7 +35,7 @@ Simon Game challenges players to follow a random pattern of lights that gets pro
 
 ## 📁 Folder Structure
 
-Simon-Game-Project:
+Simon-Game-Project:\
   │\
   ├── img/ ← Game images (e.g., image/music/vedio).\
   ├── index.html ← Main HTML page.\
