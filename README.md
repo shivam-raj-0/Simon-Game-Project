@@ -86,7 +86,7 @@ Simon-Game-Project:\
 
 👤 ***𝓢𝓱𝓲𝓿𝓪𝓶 𝓡𝓪𝓳***<br>
 📧 Email: rs959088@gmail.com<br>
-🔗 Website: https://shivam-webpage.netlify.app/<br>
+🔗 Website: https://shivam-profile-webpage.netlify.app/<br>
 💼 LinkedIn: https://www.linkedin.com/in/shivam-raj-619b65329/<br>
 📸 Instagram: https://www.instagram.com/royal_rajput_shivam_/
 
