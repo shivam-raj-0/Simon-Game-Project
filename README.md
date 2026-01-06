@@ -43,7 +43,6 @@ Simon-Game-Project:
   ├── script.js ← Game logic & interaction
   └── README.md ← This file
 
-
 ---
 
 ## 🛠 Tech Stack
