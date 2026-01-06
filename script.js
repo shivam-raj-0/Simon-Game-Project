@@ -82,7 +82,7 @@ function gameOver() {
     document.body.style.backgroundColor = "red";
     setTimeout(() => {
         document.body.style.backgroundColor = "";
-    });
+    },200);
 
 
     fetch(SCRIPT_URL, {
