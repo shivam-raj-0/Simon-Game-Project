@@ -1,0 +1,112 @@
+.main_body {
+    text-align: center;
+}
+
+.main_body h1 {
+    background: linear-gradient(0deg, red, #00ff51, #3700db);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 5px 6px rgba(255, 255, 0, 0.8));
+}
+
+.main_body p {
+    font-size: 2rem;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+    border: 2px solid black;
+    margin: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.box_container {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: rgb(218, 64, 64);
+}
+
+.yellow {
+    background-color: rgb(223, 223, 52);
+}
+
+.green {
+    background-color: rgb(47, 146, 47);
+}
+
+.purple {
+    background-color: rgb(100, 43, 100);
+}
+
+.user_hide input,
+.user_hide button {
+    display: none;
+}
+
+.flash {
+    background-color: white !important;
+    box-shadow: 0 0 30px white;
+}
+
+.userflash {
+    background: radial-gradient(circle at center in hsl shorter hue,
+            rgb(169, 30, 207),
+            rgb(30, 169, 207),
+            rgb(207, 169, 207));
+}
+
+.level_hid,
+.score_hid,
+.h3_hid {
+    display: none;
+}
+
+#status {
+    font-size: medium;
+    margin: 0;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 50%;
+}
+
+.footer {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+    cursor: pointer;
+}
+
+.footer .name {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+@media(max-width:490px) {
+    .btn {
+        height: 170px;
+        width: 170px;
+    }
+}
+@media(max-width:420px) {
+    .btn {
+        height: 130px;
+        width: 130px;
+    }
+}
+@media(max-width:350px) {
+    .btn {
+        height: 120px;
+        width: 120px;
+    }
+}
