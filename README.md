@@ -8,7 +8,7 @@ Simon Game is a classic electronic memory game where players must remember and r
 
 ## 📌 Demo / Live Website
 
-🔗 **Website:** coming soon!!  
+🔗 **Website:** https://classic-simon-games.netlify.app/  
 Play the Simon Game *live* and test your memory!
 
 ---
