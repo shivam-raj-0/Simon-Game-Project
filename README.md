@@ -74,7 +74,7 @@ Simon-Game-Project:\
 
 2. Navigate into the folder:
    ```bash
-   **cd** Simon-Game-Project
+   cd Simon-Game-Project
    
 4. Open the game in a browser:
    ```bash
