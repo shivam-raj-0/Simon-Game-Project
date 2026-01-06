@@ -35,13 +35,13 @@ Simon Game challenges players to follow a random pattern of lights that gets pro
 
 ## 📁 Folder Structure
 
-Simon-Game-Project
-│
-├── img/ ← Game images (e.g., image/music/vedio)
-├── index.html ← Main HTML page
-├── style.css ← Styles for UI
-├── script.js ← Game logic & interaction
-└── README.md ← This file
+Simon-Game-Project:
+  │
+  ├── img/ ← Game images (e.g., image/music/vedio)
+  ├── index.html ← Main HTML page
+  ├── style.css ← Styles for UI
+  ├── script.js ← Game logic & interaction
+  └── README.md ← This file
 
 
 ---
@@ -74,9 +74,11 @@ Simon-Game-Project
    git clone https://github.com/shivam-raj-0/Simon-Game-Project.git
 
 2. Navigate into the folder:
+   ```bash
    **cd** Simon-Game-Project
    
 4. Open the game in a browser:
+   ```bash
    open index.html
    
 ---
