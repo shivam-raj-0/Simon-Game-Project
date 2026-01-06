@@ -2,7 +2,7 @@
 
 🎉 Welcome to the **Simon Game Project** — a fun, interactive memory challenge built with **HTML**, **CSS**, and **JavaScript**!
 
-Simon Game is a classic electronic memory game where players must remember and repeat an increasingly long sequence of coloured buttons that light up. :contentReference[oaicite:0]{index=0}
+Simon Game is a classic electronic memory game where players must remember and repeat an increasingly long sequence of coloured buttons that light up.
 
 ---
 
@@ -19,7 +19,7 @@ Simon Game challenges players to follow a random pattern of lights that gets pro
 ✔ Reproduce the sequence correctly → you level up  
 ❌ Make a mistake → Game over  
 
-👉 It’s a fun way to test pattern recognition and memory skills! :contentReference[oaicite:1]{index=1}
+👉 It’s a fun way to test pattern recognition and memory skills!
 
 ---
 
@@ -62,7 +62,7 @@ Simon-Game-Project:\
 3. Watch the coloured buttons light up  
 4. Click the buttons in the **same order** as shown  
 5. Correct sequences lead to next levels  
-6. A wrong click means **Game Over** — try again! :contentReference[oaicite:2]{index=2}
+6. A wrong click means **Game Over** — try again!
 
 ---
 
@@ -84,9 +84,10 @@ Simon-Game-Project:\
 
 ## 📫 Connect with Me
 
-👤 $$ \mathcal{Cursive \space Words}$$<br>
+👤 ***𝓢𝓱𝓲𝓿𝓪𝓶 𝓡𝓪𝓳***<br>
 📧 Email: rs959088@gmail.com<br>
-🔗 LinkedIn: https://in/shivam-raj-619b65329<br>
+🔗 Website: https://shivam-webpage.netlify.app/
+💼 LinkedIn: https://in/shivam-raj-619b65329<br>
 📸 Instagram: https://www.instagram.com/royal_rajput_shivam_/
 
 ---
@@ -95,4 +96,4 @@ Simon-Game-Project:\
 
 If you enjoyed this project or found it helpful, please ⭐ Star the repository!
 
-**Happy coding! 💻🚀**
+**Happy coding!!** 💻🚀**
