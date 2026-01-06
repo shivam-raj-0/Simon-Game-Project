@@ -84,9 +84,9 @@ Simon-Game-Project:\
 
 ## 📫 Connect with Me
 
-👤 Author: Shivam Raj
-📧 Email: rs959088@gmail.com
-🔗 LinkedIn: https://in/shivam-raj-619b65329
+👤 $$ \mathcal{Cursive \space Words}$$<br>
+📧 Email: rs959088@gmail.com<br>
+🔗 LinkedIn: https://in/shivam-raj-619b65329<br>
 📸 Instagram: https://www.instagram.com/royal_rajput_shivam_/
 
 ---
