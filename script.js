@@ -139,5 +139,5 @@ allBtns.forEach(btn => {
 
 let footer=document.querySelector(".footer")
 footer.addEventListener("click",function(){
-    window.open("https://shivam-webpage.netlify.app/","_blank")
+    window.open("https://shivam-profile-webpage.netlify.app/","_blank")
 })
